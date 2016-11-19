@@ -1,1 +1,1 @@
-module.exports = require('jsx-loader!./src/DragRange.jsx')
+module.exports = require('babel-loader!./src/DragRange.jsx')
